@@ -11,12 +11,14 @@ Structure of the project.
 
 1. Summery 
 
-In order to successfully purchase a ideal house, it is very important to have a overview of local property market. It could be very daunting when we have very few knowledge or have no directions.There are thousands of houses for sell each day, where should we start?  By using a real data set downloaded from Kaggle, it can help us gain some understanding of the differences between prices, suburbs, houses, then therefore having a direction to further comparing or inspecting the houses.
+In order to successfully purchase an ideal house, it is very important to firstly have an overview of local property market. It could be a very daunting task to accomplish when we have very few knowledge or no direction. There are thousands of houses for sell each day, where should we start?  By using a real data set downloaded from Kaggle, it will help us gain some understanding of the differences between house prices, suburbs, land sizes, then therefore having a direction to understand the market further.
 
 2. Data
 
-The dataset was gained from the website Kaggle. https://www.kaggle.com/syuzai/perth-house-prices It was originally scraped from http://house.speakingsame.com/ and includes data from 322 Perth suburbs.
+The dataset was gained from the website Kaggle. https://www.kaggle.com/syuzai/perth-house-prices It was originally scraped from http://house.speakingsame.com/ and it includes data from 322 Perth suburbs.
 
 3. Result
 
-After anaylysing, re-organising, and cleaning the data, I have managed to visualise a few key factors amongest all the houses, such as : price and location. I then have found my 'entry points' - A list of suburbs fits in my budget, my preference of the locations. Finally I have selected my first prefered suburbs based on the popularity of the suburbs, and successfully visualised all the data entires from that suburb onto a map.
+After cleaning, re-coding, analyze the data, I have managed to visualise a few key factors from the data set, such as : price, location, and house conditions. I then have found my 'entry points' - A list of suburbs fits in my budget, my preference of the suburbss. I have then selected my first prefered suburb based on the price, location and popularity of the sells, and finally successfully visualised all the data infomation of that suburb on a real map, with pop up windows to allow me gain all the detailed information of each house.
+
+More details please refer the Porject_Explanation.md markdown file.
